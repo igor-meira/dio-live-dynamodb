@@ -3,30 +3,30 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
-                  "AlbumTitle": {"S": "Fear of the Dark Live"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Kiss"},
+                  "SongTitle": {"S": "Modern Day Delilah"},
+                  "AlbumTitle": {"S": "Sonic Boom"},
+                  "SongYear": {"S": "2009"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
-                  "AlbumTitle": {"S": "Fear of the Dark"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Kiss"},
+                  "SongTitle": {"S": "I'm an Animal"},
+                  "AlbumTitle": {"S": "Sonic Boom"},
+                  "SongYear": {"S": "2009"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Kiss"},
+                  "SongTitle": {"S": "Hot n' Cold"},
+                  "AlbumTitle": {"S": "Sonic Boom"},
+                  "SongYear": {"S": "2009"}
                 }
             }
         }
